@@ -1,0 +1,21 @@
+{
+  "name": "clover-swoole/utils",
+  "description": "常用工具类",
+  "license": "MIT",
+  "homepage": "https://github.com/CloverSwoole/Utils",
+  "keywords": ["CloverSwoole","Context"],
+  "authors": [
+    {
+      "name": "戒尺",
+      "email": "itxiao6@qq.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "CloverSwoole\\Utils\\": "src"
+    }
+  }
+}
